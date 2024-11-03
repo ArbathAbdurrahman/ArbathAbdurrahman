@@ -1,8 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arbathabdurrahman&label=Profile%20views&color=0e75b6&style=flat" alt="arbathabdurrahman" /> </p>
-
-<p align="left">
-</p>
-
 <h5 align="left">Languages and Tools:</h5>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
@@ -48,3 +43,6 @@
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="20" height="20"/> 
   </a> 
 </p>
+
+<p align="left"></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arbathabdurrahman&label=Profile%20views&color=0e75b6&style=flat" alt="arbathabdurrahman" /> </p>
